@@ -1,0 +1,22 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "TODO APP Using Express and MongoDb",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "todo",
+    "curd",
+    "mongodb"
+  ],
+  "author": "sai akhil",
+  "license": "ISC",
+  "dependencies": {
+    "codemon": "^0.1.31-development",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0"
+  }
+}
